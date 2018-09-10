@@ -1,3 +1,5 @@
 print("Hello!;")
 print("Zastrelites';")
 print("Hello!;")
+print("Hello, my dear friend!;")
+print("Glad to see you;")
